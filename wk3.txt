@@ -1,0 +1,70 @@
+﻿HTML 4.0
+
+HTML5
+
+commit	บันทึกลงในเครื่อง (ทำในโปรแกรมแล้ว)
+push	การส่งไปบันทึกบน github
+pull	การดึงข้อมูลบน github ลงเครื่อง
+
+Remote:  https://github.com/bteera/html-work.git
+Repo: https://github.com/bteera/html-work
+
+
+username: bteera
+password: 2131564
+
+git config --global user.name "Teera Binkasem"
+git config --global user.email "bteera@gmail.com"
+
+tag p 
+attribute
+<p align=" ">
+    - left   ชิดซ้าย
+    - right  ชิดขวา
+    - center กึ่งกลาง
+
+tag hr
+<hr color="" noshade>
+    color
+        1. Name color 
+            // etc. red, blue
+        2. Hex Code   
+            // Hex Base Number
+            # XX XX XX
+            # 00 00 00  // #000000
+            # red green blue
+            #FF00DD
+            #F1D2E3
+            
+            Base 2 < 0 1 >
+            Base 8 < 0 1 2 3 4 5 6 7 > 
+            Base 10 < 0 1 2 3 4 5 6 7 8 9 >
+            Base 16 < 0 1 2 3 4 5 6 7 8 9 
+                      A B C D E F > 
+        3. RGB Number
+            rgb(,,)
+            0-255
+
+            rgb(100,100,255)
+    width 
+        - number (0123456...)
+        - percent (%)
+
+marquee
+    behavior=""
+        - scroll
+        - slide
+        - alternate  
+    direction=""
+        - right
+        - left
+
+    SCROLLDELAY="" / acrolldelay=""
+        0-1000 milli second ไมโครวินาที
+    SCROLLAMOUNT="" / scrollamount=""
+        default = 6 
+
+
+
+
+
