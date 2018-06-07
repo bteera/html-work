@@ -1,0 +1,17 @@
+﻿ctrl+z / ctrl+y / ctrl+x / ctrl+p / ctrl+s / ctrl+o / ctrl+n / ctrl+c / ctrl+v
+ctrl+u / ctrl+j / F12 / ctrl+q / ctrl+w /  
+
+merge - ผสาน
+-row
+-column
+Link
+- internal webpage	- to other webpage	
+- to website	- to download	- to open mail
+
+
+
+
+
+
+
+

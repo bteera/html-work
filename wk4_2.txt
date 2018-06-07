@@ -1,0 +1,11 @@
+github.com
+git-scm
+   - git bash  --->   terminal of Mc intosh / Unix / Linux
+	pwd, mkdir, rm, rm -p, cd, cd .., ls, ls -a, ls -l, clear, cat, touch
+   - git cmd   --->   command line for windows
+	md, rd, cd, cd .., cd\, dir/w, dir/p, cls, >>, type
+   - git gui
+github, gitlab
+sourcetree
+ - bitbucket
+ - atlasin
