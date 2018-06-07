@@ -9,3 +9,34 @@ github, gitlab
 sourcetree
  - bitbucket
  - atlasin
+<bdo>    <abbr>   <q>    <blockquote>
+Link	<a>
+    - Link in Webpage		- Link to Webpage
+    -  Link to Website	(link2web.html)	- Link to Download
+    - Link Email 		- Link to Frame
+<a href=""> </a>
+<a href="" target=""> </a>
+    - _blank
+    - _parent
+    - _self
+    - _top
+    - new
+
+	*.html / *.htm / *.php / *.asp / *.jsp 
+	*.mp4 / mp3 / docx / xls / ppt 
+	static ---  *.jpg / png
+	animate --- *.gif  
+
+	start >>> winword  >>> excel   >>> powerpnt
+
+172.16.9.81/download
+172.16.11.51:8887/download
+www.rarlab.com
+	 
+
+
+
+
+
+
+
